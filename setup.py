@@ -3,12 +3,11 @@ from setuptools import setup, find_packages
 setup(
     name="colab-plotting-theme",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Erin Trochim",
     description="Custom plotting theme for Google Colab with Open Sans font",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/colab-plotting-theme",
+    url="https://github.com/edtrochim/plotnine-plotting-theme",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
